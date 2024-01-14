@@ -1,0 +1,11 @@
+{
+    "categores":[
+        {
+            "id":1,
+            "name":"iphone",
+            "createdAt":12346789,
+            "updatedAt":1257876
+
+        }
+    ]
+}
